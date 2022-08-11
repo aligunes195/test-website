@@ -5,8 +5,8 @@
       {
         "appID": "GJGUYH9285.com.aselsan.bizbize",
         "paths": [
-          "/",
-          "*"
+          "/test-website",
+          "/test-website/*"
         ]
       }
     ]
