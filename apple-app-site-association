@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "GJGUYH9285.com.aselsan.bizbize",
+        "paths": [
+          "/",
+          "*"
+        ]
+      }
+    ]
+  }
+}
